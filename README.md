@@ -32,7 +32,7 @@ Production-style monitoring platform deployed on AWS ECS Fargate, built with a t
 
 **Tech:** AWS • ECS Fargate • Terraform • GitHub Actions • OIDC • Docker • Grype • Checkov • Route 53 • ACM
 
-### [WordPress on Terraform](https://github.com/01-Ayubmohamed/wordpress-terraform)
+### [WordPress on AWS (Terraform)](https://github.com/01-Ayubmohamed/wordpress-terraform)
 3-tier WordPress deployment (ALB, EC2, RDS MySQL) provisioned through 4 reusable Terraform modules, with least-privilege security groups isolating each layer and automated installation via cloud-init.
 
 **Tech:** AWS • EC2 • RDS • ALB • Terraform • cloud-init
